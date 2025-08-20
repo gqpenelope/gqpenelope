@@ -10,13 +10,13 @@
 
 ⚡ Me interesa aplicar mi **pensamiento analítico y resolución de problemas** en banca. 
 
-## Intereses profesionales  
+🌱 Intereses profesionales  
 - Administración de riesgos financieros
 - Análisis cuantitativo aplicado a banca y finanzas 
 
 ---
 
-### 📫 Conecta conmigo
+📫 Conecta conmigo
 - [LinkedIn](https://www.linkedin.com/in/penelope-garcia-quiroz)  
 - ✉️ notificacionespenelope@gmail.com  
 - GitHub repos destacados aquí 👇  
