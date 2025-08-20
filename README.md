@@ -1,16 +1,23 @@
-## Hi there 👋
+# ¡Hola! 👋 Soy Penélope García Quiroz 
 
-<!--
-**gqpenelope/gqpenelope** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Recien egresada de **Actuaría** (junio 2025).  
+📊 Apasionada por las **finanzas bursátiles, análisis de riesgos y portafolios**.  
+💻 Manejo de **Python, R, Excel (tablas dinámicas, macros, VLOOKUP)** y **SQL**.  
+📈 Experiencia en:  
+- Optimización de macros en procesos de inventario.  
+- Análisis de datos financieros y modelos cuantitativos.
+- Análisis de riesgos financieros (mercado, crédito y liquidez)  
 
-Here are some ideas to get you started:
+⚡ Me interesa aplicar mi **pensamiento analítico y resolución de problemas** en banca. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Intereses profesionales  
+- Administración de riesgos financieros
+- Análisis cuantitativo aplicado a banca y finanzas 
+
+---
+
+### 📫 Conecta conmigo
+- [LinkedIn](https://www.linkedin.com/in/penelope-garcia-quiroz)  
+- ✉️ notificacionespenelope@gmail.com  
+- GitHub repos destacados aquí 👇  
+
