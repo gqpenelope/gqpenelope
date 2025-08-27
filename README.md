@@ -1,18 +1,18 @@
-# ¡Hola! 👋 Soy Penélope García Quiroz 
+# Hello! 👋 I'm Penélope García Quiroz  
 
-🎓 Recien egresada de **Actuaría** (junio 2025).  
-📊 Apasionada por las **finanzas bursátiles, análisis de riesgos y portafolios**.  
-📈 Experiencia en:  
+🎓 Recently graduated in **Actuarial Science** (June 2025).  
+📊 Passionate about **capital markets, risk analysis, and portfolios**.  
+📈 Experience in:  
 
-- Análisis de datos financieros y modelos cuantitativos.
-- Análisis de riesgos financieros (mercado, crédito y liquidez).
-- Creación de dashboard para toma de decisiones y control de ventas. 
+- Financial data analysis and quantitative models.  
+- Financial risk analysis (market, credit, and liquidity).  
+- Dashboard creation for decision-making and sales control.  
 
-⚡ Me interesa aplicar mi **pensamiento analítico y resolución de problemas** en banca. 
+⚡ I’m interested in applying my **analytical thinking and problem-solving skills** in banking.  
 
-🌱 Intereses profesionales:  
-- Administración de riesgos financieros
-- Análisis cuantitativo aplicado a banca y finanzas 
+🌱 Professional interests:  
+- Financial risk management  
+- Quantitative analysis applied to banking and finance  
 
 # 💻 Tech Stack:
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat&logo=latex&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=flat&logo=streamlit&logoColor=white)
